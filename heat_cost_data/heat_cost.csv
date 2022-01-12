@@ -1,10 +1,13 @@
-USD/MWh,Canada,,Denmark,,France,,Germany,,United Kingdom,,Sweden,
-,low,high,low,high,low,high,low,high,low,high,low,high
-Gas condensing boiler (2019 gas prices),31,48,82,133,91,143,72,125,57,97,124,193
-Gas condensing boiler (gas prices 30% higher than 2019),33,55,99,160,108,169,91,153,68,113,148,229
-Pellet boiler,113,163,121,204,142,284,163,290,171,298,148,228
-Electric air-air heat pump,47,90,98,163,73,197,118,207,117,183,43,78
-Electric air-water heat pump,48,82,87,142,81,170,111,184,97,145,76,127
-Electric ground-source heat pump,29,52,57,89,53,94,64,109,64,104,44,70
-Solar thermal combi system,43,106,57,99,85,206,58,123,72,135,74,153
-Solar thermal water heat,49,150,69,167,143,309,98,237,140,277,128,310
+Country,range,Gas condensing boiler (2019 gas prices),Gas condensing boiler (gas prices 30% higher than 2019),Pellet boiler,Electric air-air heat pump,Electric air-water heat pump,Electric ground-source heat pump,Solar thermal combi system,Solar thermal water heat
+Canada,low,31,33,113,47,48,29,43,49
+Canada,high,48,55,163,90,82,52,106,150
+Denmark,low,82,99,121,98,87,57,57,69
+Denmark,high,133,160,204,163,142,89,99,167
+France,low,91,108,142,73,81,53,85,143
+France,high,143,169,284,197,170,94,206,309
+Germany,low,72,91,163,118,111,64,58,98
+Germany,high,125,153,290,207,184,109,123,237
+United Kingdom,low,57,68,171,117,97,64,72,140
+United Kingdom,high,97,113,298,183,145,104,135,277
+Sweden,low,124,148,148,43,76,44,74,128
+Sweden,high,193,229,228,78,127,70,153,310
