@@ -1,0 +1,44 @@
+/* COLOR PALETTE HERE: https://colorhunt.co/palette/1a374d4068826998abb1d0e0 */
+body {
+font-family: Helvetica;
+margin: 0px;
+text-align: center;
+}
+
+h1 {
+width: 50%;
+margin: 0 auto 0 auto;
+}
+
+.top-container {
+background-color: #B1D0E0;
+margin-bottom: 0px;
+border: solid 10px;
+padding: 20px;
+}
+
+.middle-container {
+background-color: #6998AB;
+height: 200px;
+width: 200px;
+}
+
+.bottom-container {
+background-color: #406882;
+height: 200px;
+width: 200px;
+}
+
+.bottom-cloud {
+position: absolute;
+}
+
+.top-cloud {
+position: absolute;
+right: 300px;
+}
+
+img {
+position: relative;
+left: 30px;
+} /* doesn't affect anything else on screen */
